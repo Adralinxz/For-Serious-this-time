@@ -1,0 +1,9 @@
+# Roblox Studio
+*.rbxlx.bak
+*.rbxlx.tmp
+*.log
+# Build output
+build/
+# Editor configs
+.DS_Thumbs
+Thumbs.db
